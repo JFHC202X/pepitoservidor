@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "6ed93fd6-cb59-3aee-bb92-8c943dabd45e",
+    "name": "elpepito2.0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0b4e6f1d-e867-39c2-af06-81642a5d96c2",
+    "name": "Elpepito2.0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "877fc8c6-b7e4-32ff-9d83-1a635e5b36f8",
+    "name": "Pepito",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
