@@ -1327,3 +1327,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [17Jun2025 19:37:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 was slain by Vindicator
 [17Jun2025 19:37:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 was slain by Vindicator
 [17Jun2025 19:38:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 was slain by Vindicator
+[17Jun2025 19:39:17.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 was slain by Vindicator
+[17Jun2025 19:39:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elpepito2.0: Set the time to 1000]
+[17Jun2025 19:39:55.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elpepito2.0: Set own game mode to Creative Mode]
+[17Jun2025 19:40:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elpepito2.0: Set own game mode to Survival Mode]
+[17Jun2025 19:42:23.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpepito2.0 lost connection: Disconnected
+[17Jun2025 19:42:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 left the game
+[17Jun2025 19:42:48.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jun2025 19:42:49.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jun2025 19:42:49.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jun2025 19:42:49.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jun2025 19:42:49.025] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[17Jun2025 19:42:49.046] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[17Jun2025 19:42:49.165] [DefaultDispatcher-worker-3/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[17Jun2025 19:42:49.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jun2025 19:42:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[17Jun2025 19:42:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:paleogene
+[17Jun2025 19:42:50.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:worldtest_1
+[17Jun2025 19:42:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:pleistocene
+[17Jun2025 19:42:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jun2025 19:42:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jun2025 19:42:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:madnessdimension
+[17Jun2025 19:42:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/unearthed_journey:neogene
+[17Jun2025 19:42:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[17Jun2025 19:42:50.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jun2025 19:42:50.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[17Jun2025 19:42:50.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (paleogene): All chunks are saved
+[17Jun2025 19:42:50.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (worldtest_1): All chunks are saved
+[17Jun2025 19:42:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pleistocene): All chunks are saved
+[17Jun2025 19:42:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jun2025 19:42:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jun2025 19:42:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madnessdimension): All chunks are saved
+[17Jun2025 19:42:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (neogene): All chunks are saved
+[17Jun2025 19:42:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[17Jun2025 19:42:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jun2025 19:42:50.819] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Jun2025 19:42:50.824] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[17Jun2025 19:42:50.827] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[17Jun2025 19:42:50.831] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
