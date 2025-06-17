@@ -1311,3 +1311,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [17Jun2025 19:14:39.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Monster Hunter]
 [17Jun2025 19:15:12.005] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1874, y=145, z=2854}
 [17Jun2025 19:17:06.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Tools of the Trade]
+[17Jun2025 19:19:36.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elpepito2.0: Set own game mode to Spectator Mode]
+[17Jun2025 19:20:44.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elpepito2.0: Set own game mode to Survival Mode]
+[17Jun2025 19:21:42.055] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1958, y=89, z=2921}
+[17Jun2025 19:22:46.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [The Desert Swimmers]
+[17Jun2025 19:23:53.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 was slain by Ghost
+[17Jun2025 19:26:35.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jun2025 19:27:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Who You Gonna Call?]
