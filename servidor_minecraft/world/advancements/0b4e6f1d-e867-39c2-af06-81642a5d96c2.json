@@ -1,0 +1,175 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2025-06-17 18:32:40 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-06-17 18:32:40 +0000",
+      "has_black_balloon": "2025-06-17 18:32:40 +0000",
+      "has_lime_balloon": "2025-06-17 18:32:40 +0000",
+      "has_cyan_balloon": "2025-06-17 18:32:40 +0000",
+      "has_light_blue_balloon": "2025-06-17 18:32:40 +0000",
+      "has_gray_balloon": "2025-06-17 18:32:40 +0000",
+      "has_pink_balloon": "2025-06-17 18:32:40 +0000",
+      "has_light_gray_balloon": "2025-06-17 18:32:40 +0000",
+      "has_white_balloon": "2025-06-17 18:32:40 +0000",
+      "has_blue_balloon": "2025-06-17 18:32:40 +0000",
+      "has_yellow_balloon": "2025-06-17 18:32:40 +0000",
+      "has_purple_balloon": "2025-06-17 18:32:40 +0000",
+      "has_orange_balloon": "2025-06-17 18:32:40 +0000",
+      "has_brown_balloon": "2025-06-17 18:32:40 +0000",
+      "has_green_balloon": "2025-06-17 18:32:40 +0000",
+      "has_magenta_balloon": "2025-06-17 18:32:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-06-17 18:34:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-17 18:32:40 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "dryland": "2025-06-17 18:34:18 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "unearthed_journey:unearthed_journey_ad": {
+    "criteria": {
+      "unearthed_journey_ad_0": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "dryland": "2025-06-17 18:34:18 +0000",
+      "lush_desert": "2025-06-17 18:35:18 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-06-17 18:34:18 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_cross_recipe": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-06-17 18:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-06-17 18:32:43 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-06-17 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-06-17 18:34:14 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-06-17 18:32:43 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
