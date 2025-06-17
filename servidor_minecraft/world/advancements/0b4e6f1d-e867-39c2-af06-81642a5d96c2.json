@@ -128,6 +128,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-17 19:17:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "dryland": "2025-06-17 18:34:18 +0000"
@@ -191,7 +197,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "dryland": "2025-06-17 18:34:18 +0000",
-      "lush_desert": "2025-06-17 18:35:18 +0000"
+      "lush_desert": "2025-06-17 18:35:18 +0000",
+      "wasteland_steppe": "2025-06-17 19:12:50 +0000"
     },
     "done": false
   },
@@ -206,6 +213,13 @@
       "killed_something": "2025-06-17 18:51:12 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-06-17 19:16:45 +0000",
+      "minecraft:vindicator": "2025-06-17 19:14:39 +0000"
+    },
+    "done": false
   },
   "mca:root": {
     "criteria": {
@@ -243,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2025-06-17 19:14:39 +0000"
+    },
+    "done": true
+  },
   "beautify:iron_blinds": {
     "criteria": {
       "requirement": "2025-06-17 19:04:36 +0000"
@@ -251,7 +271,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_slopes": "2025-06-17 18:32:43 +0000"
+      "minecraft:snowy_slopes": "2025-06-17 18:32:43 +0000",
+      "minecraft:eroded_badlands": "2025-06-17 19:10:07 +0000"
     },
     "done": false
   },
@@ -281,6 +302,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-06-17 19:15:17 +0000",
       "bread": "2025-06-17 18:49:52 +0000"
     },
     "done": false
