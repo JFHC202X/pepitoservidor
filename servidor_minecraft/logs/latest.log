@@ -1291,3 +1291,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomit
 [17Jun2025 18:40:46.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Jun2025 18:40:46.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Jun2025 18:42:14.965] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jacinto'/709, l='ServerLevel[world]', x=1571.72, y=103.23, z=3162.12] died, message: 'Jacinto was slain by Myrmex Soldier'
+[17Jun2025 18:48:39.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marta'/1089, l='ServerLevel[world]', x=1567.59, y=102.00, z=3182.66] died, message: 'Marta was slain by Myrmex Worker'
+[17Jun2025 18:49:33.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Hunt and Gather]
+[17Jun2025 18:49:53.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Sweet Dreams]
+[17Jun2025 18:50:31.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Simple Farming]
+[17Jun2025 18:50:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Crops of the Wild]
+[17Jun2025 18:50:36.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [A Seedy Place]
+[17Jun2025 18:53:02.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Maria'/705, l='ServerLevel[world]', x=1566.58, y=100.00, z=3171.32] died, message: 'Maria was slain by Myrmex Soldier'
+[17Jun2025 18:54:48.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Stone Age]
+[17Jun2025 18:55:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Getting an Upgrade]
+[17Jun2025 18:57:10.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpepito2.0 has made the advancement [Fetch Me Their Souls!]
